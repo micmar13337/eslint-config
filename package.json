@@ -1,0 +1,10 @@
+{
+  "name": "@micmar13337/eslint-config",
+  "version": "1.0.3",
+  "description": "ESLint config",
+  "author": "Michael Martens - https://github.com/micmar13337",
+  "dependencies": {
+    "@creazy231/eslint-config": "^1.0.14",
+    "eslint": "^8.55.0"
+  }
+}
