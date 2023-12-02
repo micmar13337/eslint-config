@@ -2,7 +2,7 @@
 
 ```bash
 # npm
-npm install -D @micmar13337/eslint-nuxt-config
+npm install -D @micmar13337/eslint-config
 ```
 
 # Usage
