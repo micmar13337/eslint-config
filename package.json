@@ -1,10 +1,19 @@
 {
   "name": "@micmar13337/eslint-config",
-  "version": "1.0.3",
+  "version": "1.0.10",
   "description": "ESLint config",
   "author": "Michael Martens - https://github.com/micmar13337",
+  "peerDependencies": {
+    "eslint": "^8"
+  },
   "dependencies": {
-    "@creazy231/eslint-config": "^1.0.14",
-    "eslint": "^8.55.0"
+    "@antfu/eslint-config": "^0.39.7",
+    "@creazy231/eslint-config": "^2.0",
+    "eslint-plugin-better-tailwindcss": "^3.7.2",
+    "local-pkg": "^0.4.3"
+  },
+  "devDependencies": {
+    "eslint-plugin-import": "^2.32.0",
+    "eslint": "^8.44.0"
   }
 }

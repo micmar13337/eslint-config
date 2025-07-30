@@ -8,6 +8,9 @@ module.exports = {
     "antfu/if-newline": "off",
     "@typescript-eslint/no-invalid-this": "off",
     "vue/max-attributes-per-line": "off",
+    "vue/object-property-newline": [ "error", {
+      allowAllPropertiesOnSameLine: true,
+    } ],
     "max-statements-per-line": "off",
     "camelcase": [ "error" ],
     "vue/singleline-html-element-content-newline": [ "error", {
